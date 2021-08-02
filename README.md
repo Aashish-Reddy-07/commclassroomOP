@@ -1,4 +1,3 @@
 # Community Classroom is OP
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
+- Aashish Reddy says that this community is pretty amazing.
